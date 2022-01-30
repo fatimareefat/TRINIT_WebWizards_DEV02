@@ -9,6 +9,8 @@
     margin-right: 200px;
     border-radius: 10px;
     padding: 50px;
+    max-width: 600px;
+    align-self: center;
 }
 
 .bug-title, .bug-desc{
