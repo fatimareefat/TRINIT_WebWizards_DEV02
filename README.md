@@ -1,9 +1,11 @@
 # TRINIT_WebWizards_DEV02
 
 Team Name: WebWizards
-Team Members:
-Fatima Reefat
-Aaditya Rathi
+
+
+Team Members: 
+Fatima Reefat,
+Aaditya Rathi,
 Rohit Vamsi Krishna Bacharaju
 
 DRIVE LINK FOR FOLDER:
